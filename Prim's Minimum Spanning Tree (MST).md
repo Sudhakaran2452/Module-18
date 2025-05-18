@@ -113,4 +113,4 @@ g.primMST();
 ![Screenshot 2025-05-18 222425](https://github.com/user-attachments/assets/9465565e-d45e-4c3d-bd59-fda85d6b0ae2)
 
 ## RESULT
-Thus the program for Prim's Minimum Spanning Tree (MST) algorithm is executed Sucessfully.
+Thus the program for Prim's Minimum Spanning Tree (MST) algorithm is executed Successfully.
